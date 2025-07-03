@@ -1,12 +1,12 @@
 # Part 1: Introduction to Neural Networks and Deep Learning
-This part introduces learners to deep learning and neural networks. Topics covered include:
+Topics covered include:
 
 - Introduction to Deep Learning and Neural Networks
 - Introduction to deep learning
 - Neurons and neural networks
 - Artificial neural networks
 
-Lab: Build an artificial neural network from scratch and code how it performs predictions using forward propagation
+Code: Build an artificial neural network from scratch and code how it performs predictions using forward propagation
 
 
 # Part 2: Basics of Deep Learning
@@ -18,18 +18,18 @@ In this part, you will learn about the gradient descent algorithm, backpropagati
 - Vanishing gradient
 - Activation functions
 
-Lab: Mitigate the vanishing gradient problem by using a ReLU activation function
+Code: Mitigate the vanishing gradient problem by using a ReLU activation function
 
 
 # Part 3: Keras and Deep Learning Libraries
-In this part, you will learn about some of the different deep learning libraries available and how to build regression and classification models using the Keras library. Topics include:
+In this part, you will learn about some of the different deep learning libraries avaiCodele and how to build regression and classification models using the Keras library. Topics include:
 
 - Modeling with Keras
 - Deep learning libraries
 - Regression models with Keras
 - Classification models with Keras
 
-Lab: Use the Keras library to build a regression model and build a model for classification problems
+Code: Use the Keras library to build a regression model and build a model for classification problems
 
 
 # Part 4: Deep Learning Models
@@ -42,7 +42,7 @@ In this part, you will learn about the difference between shallow and deep neura
 - Transformers
 - Autoencoders
 
-Lab: Use the Keras library to build convolutional neural networks and build a transformer model
+Code: Use the Keras library to build convolutional neural networks and build a transformer model
 
 
 # Part 5: Final project and wrap-up
