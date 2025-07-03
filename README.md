@@ -46,4 +46,4 @@ Code: Use the Keras library to build convolutional neural networks and build a t
 
 
 # Part 5: Final project and wrap-up
-Final project where we will use convolutional neural network for detect the type of objects and then generate the captions for that using transformers. The course will conclude with a comprehensive wrap-up and additional resources for further learning.
+Final project where we will use convolutional neural network for detect the type of objects and then generate the captions for that using transformers.
